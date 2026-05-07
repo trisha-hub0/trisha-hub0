@@ -52,7 +52,7 @@ Passionate about building scalable, user-friendly, and modern web applications.
 ## 🤝 Connect With Me
 
 - GitHub: https://github.com/trisha-hub0
-- LinkedIn: Add your LinkedIn profile link here
+- LinkedIn: www.linkedin.com/in/trisha-nanjappa
 
 ---
 
