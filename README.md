@@ -38,6 +38,10 @@ Passionate about building scalable, user-friendly, and modern web applications.
   <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,postman" />
 </p>
 
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,postman,aws" />
+</p>
+
 ---
 
 ## 📌 Current Focus
