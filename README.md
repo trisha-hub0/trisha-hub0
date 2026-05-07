@@ -34,9 +34,6 @@ Passionate about building scalable, user-friendly, and modern web applications.
 </p>
 
 ### Tools & Platforms
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,postman" />
-</p>
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,postman,aws" />
