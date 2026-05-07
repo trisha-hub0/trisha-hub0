@@ -19,26 +19,24 @@ Passionate about building scalable, user-friendly, and modern web applications.
 ## 🛠️ Tech Stack
 
 ### Frontend
-- Angular
-- TypeScript
-- JavaScript
-- HTML5
-- CSS3
+<p>
+  <img src="https://skillicons.dev/icons?i=angular,ts,js,html,css" />
+</p>
 
 ### Backend
-- C#
-- .NET
-- REST APIs
+<p>
+  <img src="https://skillicons.dev/icons?i=dotnet,cs" />
+</p>
 
 ### Database
-- SQL Server
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql" />
+</p>
 
-### Tools
-- Git
-- GitHub
-- VS Code
-- Visual Studio
-- Postman
+### Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,postman" />
+</p>
 
 ---
 
@@ -54,7 +52,7 @@ Passionate about building scalable, user-friendly, and modern web applications.
 ## 🤝 Connect With Me
 
 - GitHub: https://github.com/trisha-hub0
-- LinkedIn: Add your LinkedIn link here
+- LinkedIn: Add your LinkedIn profile link here
 
 ---
 
